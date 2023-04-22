@@ -1,2 +1,2 @@
 # Plotly-and-Cufflinks
-Introduction to Plotly and Cufflinks for interactive plots
+Introduction to <a href="https://plotly.com/">Plotly</a> and <a href="https://github.com/santosjorge/cufflinks">Cufflinks</a> for interactive plots.
